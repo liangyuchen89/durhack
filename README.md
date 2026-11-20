@@ -7,8 +7,8 @@ An English, local-first multi-asset research dashboard for a 24-hour hackathon. 
 Python 3.11 or newer is recommended. No Node server, API key, GitHub account or external frontend CDN is required.
 
 ```bash
-git clone https://github.com/liangyuchen89/alphascope-ai.git
-cd alphascope-ai
+git clone https://github.com/liangyuchen89/durhack.git
+cd durhack
 python3 -m pip install -r requirements.txt
 python3 server.py --port 8765
 ```
